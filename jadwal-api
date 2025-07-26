@@ -1,0 +1,228 @@
+{
+  "jadwal": [
+    {
+      "hari": "Senin",
+      "salat": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+      "kegiatan": [
+        {
+          "jam": "06:00",
+          "aktivitas": "Olahraga Pagi"
+        },
+        {
+          "jam": "08:00",
+          "aktivitas": "Belajar Pemrograman"
+        },
+        {
+          "jam": "12:30",
+          "aktivitas": "Istirahat dan Makan Siang"
+        },
+        {
+          "jam": "14:00",
+          "aktivitas": "Nugas / Proyek Kuliah"
+        },
+        {
+          "jam": "19:30",
+          "aktivitas": "Nonton atau Me Time"
+        }
+      ]
+    },
+    {
+      "hari": "Selasa",
+      "salat": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+      "kegiatan": [
+        {
+          "jam": "07:00",
+          "aktivitas": "Kuliah Online"
+        },
+        {
+          "jam": "09:30",
+          "aktivitas": "Kerja Part Time"
+        },
+        {
+          "jam": "13:00",
+          "aktivitas": "Rehat & Ngaji"
+        },
+        {
+          "jam": "15:00",
+          "aktivitas": "Diskusi / Zoom Meeting"
+        },
+        {
+          "jam": "20:00",
+          "aktivitas": "Tidur Cepat"
+        }
+      ]
+    },
+    {
+      "hari": "Rabu",
+      "salat": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+      "kegiatan": [
+        {
+          "jam": "06:00",
+          "aktivitas": "Jogging & Podcast"
+        },
+        {
+          "jam": "09:00",
+          "aktivitas": "Belajar Front-End"
+        },
+        {
+          "jam": "13:00",
+          "aktivitas": "Nugas Matkul Akuntansi"
+        },
+        {
+          "jam": "16:00",
+          "aktivitas": "Bantu Orang Tua"
+        },
+        {
+          "jam": "21:00",
+          "aktivitas": "Baca Buku / Refleksi Diri"
+        }
+      ]
+    },
+    {
+      "hari": "Kamis",
+      "salat": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+      "kegiatan": [
+        {
+          "jam": "07:30",
+          "aktivitas": "Kuliah Offline"
+        },
+        {
+          "jam": "11:00",
+          "aktivitas": "Project Research"
+        },
+        {
+          "jam": "14:00",
+          "aktivitas": "Waktu Bebas / Istirahat"
+        },
+        {
+          "jam": "17:00",
+          "aktivitas": "Belanja Kebutuhan"
+        },
+        {
+          "jam": "20:00",
+          "aktivitas": "Nonton Film"
+        }
+      ]
+    },
+    {
+      "hari": "Jumat",
+      "salat": [
+        "Subuh",
+        "Dzuhur (Jumat)",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+      "kegiatan": [
+        {
+          "jam": "05:30",
+          "aktivitas": "Ngaji Pagi"
+        },
+        {
+          "jam": "08:00",
+          "aktivitas": "Tugas Kantor"
+        },
+        {
+          "jam": "12:00",
+          "aktivitas": "Salat Jumat & Makan"
+        },
+        {
+          "jam": "15:00",
+          "aktivitas": "Quality Time dengan Keluarga"
+        },
+        {
+          "jam": "20:00",
+          "aktivitas": "Persiapan Weekend"
+        }
+      ]
+    },
+    {
+      "hari": "Sabtu",
+      "salat": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+      "kegiatan": [
+        {
+          "jam": "08:00",
+          "aktivitas": "Jalan Pagi"
+        },
+        {
+          "jam": "10:00",
+          "aktivitas": "Review Coding"
+        },
+        {
+          "jam": "13:00",
+          "aktivitas": "Hangout dengan Teman"
+        },
+        {
+          "jam": "16:00",
+          "aktivitas": "Main Game"
+        },
+        {
+          "jam": "21:00",
+          "aktivitas": "Tidur Nyenyak"
+        }
+      ]
+    },
+    {
+      "hari": "Minggu",
+      "salat": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+      "kegiatan": [
+        {
+          "jam": "09:00",
+          "aktivitas": "Libur & Santai"
+        },
+        {
+          "jam": "11:00",
+          "aktivitas": "Cek Keuangan Mingguan"
+        },
+        {
+          "jam": "15:00",
+          "aktivitas": "Ngoding & Review Tugas"
+        },
+        {
+          "jam": "18:00",
+          "aktivitas": "Bersih-Bersih Kamar"
+        },
+        {
+          "jam": "20:00",
+          "aktivitas": "Rencana Minggu Depan"
+        }
+      ]
+    }
+  ]
+}
